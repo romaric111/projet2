@@ -1,0 +1,16 @@
+.main-card {
+  margin-top: 50px;
+}
+body {background-color: bisque;}
+label{text-decoration:  underline;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.over{overflow: auto;}
+.form{font-family: 'Times New Roman', Times, serif;font-size: 200%;}
+.result { 
+  text-align: left;
+  background-color: beige;
+  padding: 1em;
+  margin: 1em;
+  border: 2px solid;
+  overflow-wrap: break-word;
+  font-family: 'Courier New', Courier, monospace;
+}
