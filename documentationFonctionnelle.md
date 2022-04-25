@@ -7,11 +7,10 @@ Ce projet est une application de messagerie peers to peers qui gere la communica
 ## Systeme etudie: `Gestion de la communication d'une APP de messagerie` 
 
 ### Listes des acteurs
-***
 User web & Mini-Server 
+***
 
 #### Les differents cas d'utilisation de ce systeme 
-***
 * User web se connecte, envoie et recois des sms.
 * User web crypte le sms avant l'envoie  et decrypte pour le lire le tout avec la technologie `RSA`.
 * L'envoi du sms par le user web necessite l'utilisation de de la methode `POST/AddLetters`.
